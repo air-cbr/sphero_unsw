@@ -1,5 +1,4 @@
-<img src="sphero_bolt_plus.jpg" alt="Sphero BOLT+" width="500" height="500"/>
-
+<img src="https://github.com/air-cbr/sphero_unsw/blob/main/sphero_bolt_plus.jpg?raw=true" alt="Sphero BOLT+" width="500" height="500"/>
 
 # sphero_unsw
 
