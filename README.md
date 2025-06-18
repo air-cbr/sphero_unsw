@@ -99,6 +99,6 @@ This library [`spherov2`](https://github.com/artificial-intelligence-class/spher
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) file.
+MIT License. See the [LICENSE](https://github.com/air-cbr/sphero_unsw/blob/main/LICENSE) file.
 
 This library is based on the original [`spherov2`](https://github.com/artificial-intelligence-class/spherov2.py) library developed by the University of Pennsylvania.
